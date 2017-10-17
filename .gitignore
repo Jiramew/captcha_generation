@@ -1,5 +1,7 @@
 .idea/
 data/
+classes/
+target/
 # Compiled class file
 *.class
 
